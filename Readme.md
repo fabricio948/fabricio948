@@ -20,4 +20,4 @@ Sou um estudante apaixonado por desenvolvimento de software que se desafia mais 
 
 Confira meus repositórios e contribuições no meu [GitHub](https://github.com/fabricio948).
 
-![Estatísticas do GitHub de Fabricio](https://github-readme-stats.vercel.app/api?username=fabricio948&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Fabricio](https://github-readme-stats.vercel.app/api?username=fabricio948&show_icons=true&theme=radical)# fabricio948-fabricio948
