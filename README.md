@@ -13,11 +13,12 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor backend apaixonado por criar solu�
 
 ## 🎯 Sobre mim
 
-Sou desenvolvedor focado em backend, com experiência em desenvolvimento de aplicações robustas e escaláveis. Adoro trabalhar com microsserviços e arquiteturas distribuídas. Atualmente estou cursando ADS (Análise e Desenvolvimento de Sistemas).
+Sou desenvolvedor focado em backend, com experiência em desenvolvimento de aplicações robustas e escaláveis. Adoro trabalhar com microsserviços e arquiteturas distribuídas. Atualmente estou cursando ADS (Análise e Desenvolvimento de Sistemas) na UNIFATECIE.
 
 ## 📫 Como me encontrar
 
 - GitHub: [@fabricio948](https://github.com/fabricio948)
+- LinkedIn: [in/fabricio-lima-577404350](https://www.linkedin.com/in/fabricio-lima-577404350)
 
 ---
 
