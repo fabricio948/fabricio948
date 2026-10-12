@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor backend apaixonado por criar solu�
 
 ## 💻 Tecnologias que utilizo no dia a dia
 
-- **Java** - Linguagem principal
-- **Spring Boot** - Framework para desenvolvimento web
+- **TypeScript** - Linguagem principal
+- **NestJS** - Framework para desenvolvimento web
 - **Docker** - Containerização e deployment
 - **Mensageria** - Comunicação assíncrona entre serviços
 - **PostgreSQL** - Banco de dados relacional
@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor backend apaixonado por criar solu�
 
 ## 🎯 Sobre mim
 
-Sou desenvolvedor focado em backend, com experiência em desenvolvimento de aplicações robustas e escaláveis. Adoro trabalhar com microsserviços e arquiteturas distribuídas.
+Sou desenvolvedor focado em backend, com experiência em desenvolvimento de aplicações robustas e escaláveis. Adoro trabalhar com microsserviços e arquiteturas distribuídas. Atualmente estou cursando ADS (Análise e Desenvolvimento de Sistemas).
 
 ## 📫 Como me encontrar
 
@@ -21,4 +21,4 @@ Sou desenvolvedor focado em backend, com experiência em desenvolvimento de apli
 
 ---
 
-*Último atualizado: Junho 2026*
+*Último atualizado: Outubro 2026*
