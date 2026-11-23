@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor backend apaixonado por criar solu�
 ## 💻 Tecnologias que utilizo no dia a dia
 
 - **TypeScript** - Linguagem principal
-- **NestJS** - Framework para desenvolvimento web
+- **Go** - Linguagem de programação
 - **Docker** - Containerização e deployment
 - **Mensageria** - Comunicação assíncrona entre serviços
 - **PostgreSQL** - Banco de dados relacional
@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor backend apaixonado por criar solu�
 
 ## 🎯 Sobre mim
 
-Sou desenvolvedor focado em backend, com experiência em desenvolvimento de aplicações robustas e escaláveis. Adoro trabalhar com microsserviços e arquiteturas distribuídas. Atualmente estou cursando ADS (Análise e Desenvolvimento de Sistemas) na UNIFATECIE.
+Sou desenvolvedor focado em backend, com experiência em desenvolvimento de aplicações robustas e escaláveis. Adoro trabalhar com microsserviços e arquiteturas distribuídas.
 
 ## 📫 Como me encontrar
 
